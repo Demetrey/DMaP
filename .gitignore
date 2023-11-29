@@ -1,3 +1,4 @@
 LR1/datasets/housing/
 */.ipynb_checkpoints
 */datasets/download
+*/models
